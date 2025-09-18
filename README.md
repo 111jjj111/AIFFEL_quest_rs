@@ -148,13 +148,9 @@
 | 주차    | 주제               | 링크                     |
 | ------- | ------------------ | ------------------------ |
 | Quest 1 | GPT-1 모델 구현    | [링크](MainQuest/Quest1) |
-| Quest 2 | 프로젝트           | [링크](MainQuest/Quest2) |
+| Quest 2 | 업데이트 예정           | [링크](MainQuest/Quest2) |
 | Quest 3 | 논문 작성 프로젝트 | [링크](MainQuest/Quest3) |
-| Quest 4 | 프로젝트           | [링크](MainQuest/Quest4) |
-| Quest 5 | 프로젝트           | [링크](MainQuest/Quest5) |
-| Quest 6 | 프로젝트           | [링크](MainQuest/Quest6) |
-| Quest 7 | 프로젝트           | [링크](MainQuest/Quest7) |
-| Quest 8 | 프로젝트           | [링크](MainQuest/Quest8) |
+
 
 ### Exploration
 
@@ -184,8 +180,3 @@
 | GD-06    | BERT 모델 구현             | [링크](GoingDeeper/GD_06)    |
 | GD-07    | HuggingFace 활용 모델링    | [링크](GoingDeeper/GD_07)    |
 | GD-08    | KoGPT 모델 활용            | [링크](GoingDeeper/GD_08)    |
-| GD-09/10 | 프로젝트                   | [링크](GoingDeeper/GD_09_10) |
-| GD-11/12 | 프로젝트                   | [링크](GoingDeeper/GD_11_12) |
-| GD-13/14 | 프로젝트                   | [링크](GoingDeeper/GD_13_14) |
-| GD-15/16 | 프로젝트                   | [링크](GoingDeeper/GD_15_16) |
-| GD-17/18 | 프로젝트                   | [링크](GoingDeeper/GD_17_18) |
