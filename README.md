@@ -147,9 +147,7 @@
 | 주차    | 주제               | 링크                     |
 | ------- | ------------------ | ------------------------ |
 | Quest 1 | GPT-1 모델 구현    | [링크](MainQuest/Quest1) |
-| Quest 2 | 업데이트 예정           | [링크](MainQuest/Quest2) |
-| Quest 3 | 논문 작성 프로젝트 | [링크](MainQuest/Quest3) |
-
+| Quest 2 | 논문 작성 프로젝트           | [링크](MainQuest/Quest3) |
 
 ### Exploration
 
